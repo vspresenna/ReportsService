@@ -1,0 +1,11 @@
+dim
+	product
+	time week month quarter
+	location -> sub catg 
+	custmer - age gender
+	transaction -> e pay, cash, bonus.
+	
+	output selection
+	
+	
+	pie/bar/ui grid(excel sheet) - pre defined - user will not select
