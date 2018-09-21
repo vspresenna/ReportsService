@@ -126,6 +126,14 @@
 			<scope>runtime</scope>
 		</dependency>
 		<!-- End of JDBC DBCP -->
+		
+		<!-- Snowflakes DB jars -->
+		<dependency>
+			<groupId>net.snowflake</groupId>
+			<artifactId>snowflake-jdbc</artifactId>
+			<version>3.6.11</version>
+		</dependency>
+		<!-- End of Snowflakes DB jars -->
 	</dependencies>
 
 	<build>
